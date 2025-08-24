@@ -44,7 +44,7 @@ The goal of this project was to replicate core features of Google Docs while lea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/liveDocs.git
+git clone https://github.com/yogeshh17/liveDocs.git
 cd liveDocs
 ````
 
